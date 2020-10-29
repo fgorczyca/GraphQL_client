@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBAMxrNr3AmdBnDFIOCVm2Odea5/kUL5je7X8yXWEdJKDYURDw7Yo/Tpy5JRPEif2gLEA+rGVMRIAckeuodvCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franciszek.gorczyca\\Desktop\\graphql client prototype\\graphqlclient\\graphqlclient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franciszek.gorczyca\\.nuget\\packages\\graphql.client\\3.2.0\\graphql.client.3.2.0.nupkg.sha512",
+    "C:\\Users\\franciszek.gorczyca\\.nuget\\packages\\graphql.client.abstractions\\3.2.0\\graphql.client.abstractions.3.2.0.nupkg.sha512",
+    "C:\\Users\\franciszek.gorczyca\\.nuget\\packages\\graphql.client.abstractions.websocket\\3.2.0\\graphql.client.abstractions.websocket.3.2.0.nupkg.sha512",
+    "C:\\Users\\franciszek.gorczyca\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\3.2.0\\graphql.client.serializer.newtonsoft.3.2.0.nupkg.sha512",
+    "C:\\Users\\franciszek.gorczyca\\.nuget\\packages\\graphql.primitives\\3.2.0\\graphql.primitives.3.2.0.nupkg.sha512",
+    "C:\\Users\\franciszek.gorczyca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\franciszek.gorczyca\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
